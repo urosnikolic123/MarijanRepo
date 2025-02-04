@@ -1,0 +1,408 @@
+[
+  {
+    "Icon": "/assets/svg/bathtub-bathroom-svgrepo-com.svg",
+    "id": "1",
+    "title": "Odgušenje kade",
+    "preTitle": "Odgušenje",
+    "description": "brzo odgušenje kade bez oštećenja instalacija.",
+    "image": "/images/odgusenje-kade.jpg",
+    "points": [
+      {
+        "title": "Zašto dolazi do zapušenja?",
+        "text": "Zapušenje odvoda nastaje zbog nakupljenih dlaka, ostataka sapuna, kamenca i drugih otpadnih materijala koji se talože u cevima. Čak i mala količina ovih ostataka može izazvati blokadu protoka vode, što može dovesti do poplava ili neprijatnih mirisa. Zapušenja se najčešće javljaju u kupatilima, posebno u kadi i WC-u, ali mogu zahvatiti i kuhinjske odvode. Ako se ne rešavaju na vreme, mogu dovesti do skupljih popravki."
+      },
+      {
+        "title": "Kako prepoznati problem?",
+        "text": "Prvi znakovi zapušenja su sporo oticanje vode i neprijatni mirisi iz odvoda. Takođe, ako čujete zvukove klokotanja, to može značiti da je došlo do formiranja čepa u cevima. Brza reakcija je ključna kako bi se sprečili ozbiljniji problemi sa odvodom."
+      },
+      {
+        "title": "Naše metode čišćenja",
+        "text": "Koristimo savremene tehnike čišćenja, uključujući ručno čišćenje, mašinsko odgušenje i hidrodinamičko pranje. Ručno čišćenje rešava manje blokade, dok mašinsko odgušenje uklanja tvrdokorne prepreke. Hidrodinamičko pranje koristi visok pritisak vode za temeljno čišćenje cevi i sprečavanje budućih zapušenja."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Stručno i efikasno rešenje",
+      "title": "Odgušenje kade bez stresa i dodatnih troškova",
+      "postTitle": "Brzo, efikasno i bez oštećenja – rešavamo svaki problem sa zapušenjem kade!",
+      "text": "Zapušena kada može izazvati mnoge neprijatnosti u domaćinstvu, ali uz naš tim stručnjaka problem će biti rešen brzo i efikasno. Koristimo najnovije metode čišćenja kako bismo osigurali dugotrajno rešenje bez oštećenja vaših instalacija. Ne dozvolite da vam zapušena kada remeti svakodnevnicu – kontaktirajte nas odmah! Brzo reagovanje i profesionalna oprema omogućavaju nam da saniramo i najteža zapušenja. Ukoliko primetite bilo kakve probleme sa oticanjem vode, obratite nam se i rešite problem pre nego što postane ozbiljan."
+    },
+    "elements": [
+      {
+        "title": "Ručno uklanjanje prepreka",
+        "text": "U slučaju manjih zapušenja, stručnjaci koriste specijalizovane alate za ručno uklanjanje prepreka koje blokiraju protok vode. Ova metoda je pogodna za uklanjanje dlaka, sapuna i manjih ostataka koji se nakupljaju u cevima. Ručno čišćenje omogućava brzo rešavanje problema, sprečavajući širenje blokade i ozbiljnije poteškoće sa odvodom."
+      },
+      {
+        "title": "Mašinsko odgušenje",
+        "text": "Za tvrdokorne blokade, koristimo specijalizovane mašine koje efikasno uklanjaju veće prepreke, poput taloga kamenca i masnoće. Ova metoda je idealna za ozbiljna zapušenja koja ne mogu biti rešena običnim čišćenjem. Mašinsko odgušenje omogućava temeljno čišćenje i dugoročno obezbeđuje nesmetan protok vode."
+      },
+      {
+        "title": "Preventivne mere",
+        "text": "Redovno čišćenje i upotreba filtera mogu značajno sprečiti buduća zapušenja i produžiti životni vek vaših instalacija. Preporučujemo periodične preglede kako biste na vreme uočili potencijalne probleme i izbegli veće troškove popravki. Preventivne mere pomažu u održavanju sistema u dobrom stanju i sprečavaju teže blokade."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati našu uslugu?",
+    "endTitle": "Garantovano brzo i efikasno rešenje problema sa odvodima",
+    "endText": "Naš tim iskusnih vodoinstalatera koristi najsavremenije metode i alate kako bi osigurao brzo i dugotrajno rešenje problema sa zapušenjem kade. Bilo da je u pitanju manja blokada ili ozbiljno zapušenje, pružamo profesionalnu uslugu prilagođenu vašim potrebama. Pored trenutnog rešenja problema, nudimo i savete za prevenciju budućih začepljenja kako biste izbegli dodatne troškove. Kontaktirajte nas danas i rešite problem sa odvodom na najbrži i najsigurniji način!"
+  },
+  {
+    "Icon": "/assets/svg/ToiletSeat.svg",
+    "id": "2",
+    "title": "Odgušenje WC šolje",
+    "preTitle": "Odgušenje",
+    "description": "Brzo i sigurno odgušenje WC šolje bez stresa i dodatnih troškova.",
+    "image": "/images/odgusenje-wc-solje.jpg",
+    "points": [
+      {
+        "title": "Zašto dolazi do zapušenja WC šolje?",
+        "text": "Zapušenje WC šolje obično nastaje zbog nakupljenih otpadnih materijala poput toalet papira, masnoće ili stranih objekata. Ove blokade mogu uzrokovati sporo oticanje vode, a često se javljaju i neprijatni mirisi. Ako se ne reše na vreme, mogu izazvati ozbiljnije probleme u vodovodnom sistemu."
+      },
+      {
+        "title": "Kako prepoznati problem?",
+        "text": "Ako voda u WC šolji sporo otiče ili se ne povuče uopšte, to je siguran znak da je došlo do zapušenja. Takođe, izlivanje vode iz WC šolje može biti ozbiljan indikator problema, što zahteva hitnu intervenciju."
+      },
+      {
+        "title": "Naše metode čišćenja",
+        "text": "Za brzo rešavanje zapušenja koristimo specijalizovane alate, kao što su usisivači za vodu i mašine za odgušenje. Ove metode omogućavaju efikasno čišćenje, bez oštećenja WC šolje i vodovodnih instalacija, čime se osigurava dugoročno rešenje problema."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Brzo i efikasno rešenje",
+      "title": "Odgušenje WC šolje bez stresa",
+      "postTitle": "Sigurno i brzo rešavanje problema sa WC šoljom!",
+      "text": "Zapušena WC šolja može izazvati mnogo neprijatnosti, a ako se ne rešava na vreme, može dovesti do ozbiljnijih problema. Naš tim stručnjaka koristi najsavremeniju opremu i metode kako bi brzo i sigurno rešio problem, bez potrebe za skupim popravkama."
+    },
+    "elements": [
+      {
+        "title": "Ručna intervencija",
+        "text": "Za manje zapušenja koristimo alate poput ventuza i specijalnih žica, koji omogućavaju brzo uklanjanje blokada. Ova metoda je jednostavna, efikasna i povoljnija, jer ne zahteva velike troškove ili složene intervencije."
+      },
+      {
+        "title": "Mašinsko odgušenje",
+        "text": "Za ozbiljnija zapušenja koristimo profesionalne mašine koje efikasno uklanjaju tvrdokorne naslage, kao što su masnoće i kamenac. Ove mašine omogućavaju precizno čišćenje bez oštećenja WC šolje ili vodovodnih instalacija."
+      },
+      {
+        "title": "Preventivne mere",
+        "text": "Za sprečavanje zapušenja, izbegavajte bacanje toalet papira, vlažnih maramica i drugih neprikladnih materijala u WC. Redovno čišćenje i održavanje odvoda smanjuje rizik od blokada i produžava životni vek vaših vodovodnih instalacija."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati našu uslugu?",
+    "endTitle": "Brzo i efikasno rešavanje problema sa WC šoljom",
+    "endText": "Naš tim nudi brzo i sigurno rešenje za zapušen WC šolju. Koristimo samo najnovije alate i tehnike kako bismo obezbedili da vaš WC ponovo funkcioniše besprekorno, a sve to bez oštećenja vaših instalacija."
+  },
+  {
+    "Icon": "/assets/svg/ProblemPipe.svg",
+    "id": "3",
+    "title": "Curenje cevi",
+    "preTitle": "Curenje",
+    "description": "otkrivanje i popravka curenja cevi u vašem domu.",
+    "image": "/images/curenje-cevi.jpg",
+    "points": [
+      {
+        "title": "Uzroci curenja cevi",
+        "text": "Curenje cevi može nastati zbog različitih faktora, uključujući starost, mehaničke povrede, nepravilnu instalaciju ili koroziju. Čak i najmanje oštećenje može izazvati ozbiljne probleme, poput gubitka vode ili oštećenja imovine, ako se ne reši na vreme. Zapušenje ili nepravilna montaža mogu takođe povećati rizik od curenja, pa je važno redovno proveravati stanje cevi."
+      },
+      {
+        "title": "Kako prepoznati curenje?",
+        "text": "Ako primetite vlagu na mestima gde ne bi trebalo da bude, to je siguran znak da voda curi iz cevi. Takođe, neprijatni mirisi ili promenjeni pritisak vode mogu ukazivati na curenje koje zahteva hitnu intervenciju. U nekim slučajevima, curenje može izazvati promene u boji zidova ili podova, što je takođe znak problema."
+      },
+      {
+        "title": "Naše metode popravke",
+        "text": "Za precizno otkrivanje curenja koristimo kamere za inspekciju cevi i aparate za detekciju vlage. Nakon što identifikujemo izvor curenja, brzo i efikasno rešavamo problem, bilo zamenom oštećenih delova ili upotrebom specijalizovanih brtvila. Naša stručnost i tehnologija omogućavaju minimalne intervencije i brze rezultate, smanjujući dodatnu štetu na vašim instalacijama."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Brzo i efikasno rešenje",
+      "title": "Otkrivanje i popravka curenja cevi",
+      "postTitle": "Bezbedno i trajno rešenje curenja cevi!",
+      "text": "Curenje cevi može uzrokovati ozbiljne štete ako se ne rešava odmah. Naš tim stručnjaka koristi naprednu opremu i tehnike kako bi brzo identifikovao problem i popravio ga bez izazivanja dodatnih oštećenja. Kontaktirajte nas odmah za trajno rešenje!"
+    },
+    "elements": [
+      {
+        "title": "Inspekcija cevi kamerom",
+        "text": "Koristimo napredne kamere za inspekciju cevi koje omogućavaju precizno otkrivanje curenja i drugih problema, bez potrebe za velikim iskopima ili oštećenjem vaših instalacija. Ovaj pristup je brz i efikasan, što omogućava brže rešavanje problema."
+      },
+      {
+        "title": "Popravka curenja",
+        "text": "Nakon što identifikujemo izvor curenja, koristimo visokokvalitetne materijale i stručne tehnike kako bismo efikasno rešili problem. Bilo da se radi o zameni oštećenih cevi ili upotrebi specijalizovanih brtvila, garantujemo dugotrajan rezultat."
+      },
+      {
+        "title": "Prevencija budućih curenja",
+        "text": "Da biste sprečili buduća curenja, preporučujemo redovne inspekcije i održavanje cevi, kao i pravovremenu zamenu dotrajalih ili oštećenih delova. Ove preventivne mere mogu vam uštedeti velike troškove u budućnosti."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati našu uslugu?",
+    "endTitle": "Garantovano brzo otkrivanje i popravka curenja cevi",
+    "endText": "Naš tim koristi najnoviju tehnologiju za precizno otkrivanje curenja cevi i pruža sigurna rešenja za popravku. Sa nama možete biti sigurni da će vaš vodovodni sistem ponovo raditi besprekorno."
+  },
+  {
+    "Icon": "/assets/svg/WetUmbrella.svg",
+    "id": "4",
+    "title": "Problemi sa vlažnim zidovima",
+    "preTitle": "Vlaga",
+    "description": "Identifikovanje i rešavanje problema sa vlažnim zidovima.",
+    "image": "/images/vlazni-zidovi.jpg",
+    "points": [
+      {
+        "title": "Uzroci vlažnih zidova",
+        "text": "Vlažni zidovi mogu biti uzrokovani nekoliko faktora, kao što su curenje iz vodovodnih instalacija, visoka vlažnost u prostoriji, neadekvatno odvođenje vode ili loša ventilacija. Dugotrajna vlaga može izazvati plesan, oštećenje zida i štetiti zdravlju."
+      },
+      {
+        "title": "Kako prepoznati vlažnost na zidovima?",
+        "text": "Vlažnost na zidovima možete primetiti kroz vlažne mrlje, bubrenje maltera, neprijatne mirise plesan, ili vidljive tragove vlage na boji ili tapetama. Takođe, moguće je primetiti kondenzaciju na staklenim površinama ili kapljice vode na zidovima."
+      },
+      {
+        "title": "Naše metode rešavanja problema sa vlagom",
+        "text": "Koristimo različite tehnike za rešavanje problema sa vlažnim zidovima, uključujući ugradnju sistema za drenažu, popravku vodovodnih instalacija, i tretmane za uklanjanje plesan. Takođe, primenjujemo specijalizovane boje i premazivanja koja sprečavaju dalju vlagu i plesan."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Brzo rešavanje problema sa vlažnim zidovima",
+      "title": "Vlažni zidovi – uzroci, prepoznavanje i rešenja",
+      "postTitle": "Zbrinjavanje vlažnih zidova u nekoliko koraka",
+      "text": "Vlažni zidovi mogu izazvati ozbiljne probleme u vašem domu. Naša ekipa koristi najnovije tehnike za efikasno rešavanje ovog problema, kako bi se sprečili dalje posledice i obnovio zdrav i suvi prostor. Naš proces uključuje temeljno ispitivanje izvora vlage, popravke vodovodnih sistema i tretmane protiv plesanji i vlage."
+    },
+    "elements": [
+      {
+        "title": "Identifikacija izvora vlage",
+        "text": "Prvo analiziramo prostor kako bismo precizno identifikovali uzrok vlage. Koristimo kamere za inspekciju cevi i druge alate kako bismo pronašli oštećenja na vodovodnim instalacijama ili druge faktore koji izazivaju vlagu u zidovima."
+      },
+      {
+        "title": "Popravka vodovodnih instalacija",
+        "text": "Ako utvrdimo da je vlaga uzrokovana curenjem iz vodovodnih cevi, vršimo popravku ili zamenu oštećenih delova kako bi se zaustavio izvor vlage. Naš tim obezbeđuje kvalitetnu popravku sa minimalnim smetnjama."
+      },
+      {
+        "title": "Tretman protiv plesanji i zaštita od vlage",
+        "text": "Nakon što rešimo izvor vlage, tretiramo zidove sa specijalnim premazima koji sprečavaju pojavu plesanji i vlagu. Koristimo visokokvalitetne proizvode koji obezbeđuju dugoročnu zaštitu vaših zidova."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati nas?",
+    "endTitle": "Rešenje za vlažne zidove brzo i efikasno",
+    "endText": "Naša ekipa pruža brzo i efikasno rešenje za sve vrste problema sa vlažnim zidovima. S našim stručnim timom, rešite problem sa vlagom i plesanju, osigurajte zdraviji dom, i produžite vek trajanja vaših zidova."
+  },
+  {
+    "Icon": "/assets/svg/DetailedSink.svg",
+    "id": "5",
+    "title": "Popravka slavine",
+    "preTitle": "Popravka",
+    "description": "Brza i precizna popravka slavina – eliminisanje curenja",
+    "image": "/images/popravka-slavine.jpg",
+    "points": [
+      {
+        "title": "Zašto slavina curi?",
+        "text": "Curenje slavine obično nastaje zbog oštećenja brtvi, korozije ili lošeg održavanja. Takođe, nepravilna ugradnja slavine ili prekomerna upotreba može uzrokovati oštećenje njenih unutrašnjih delova. Čak i mala curenja mogu dovesti do velikih gubitaka vode tokom vremena, što povećava vaše račune za vodu i može uzrokovati oštećenja na drugim instalacijama. Zbog toga je važno brzo rešiti problem, kako bi se izbegli dalji troškovi i potencijalna oštećenja."
+      },
+      {
+        "title": "Kako prepoznati curenje?",
+        "text": "Ako primetite vlažne površine oko slavine ili stalnu kapljicu koja pada, to je siguran znak da slavina curi. Ponekad se curenje može desiti i unutar slavine, na mestima koja nisu odmah vidljiva, što može dovesti do većih problema ako se ne reši na vreme. Dugi period curenja može uzrokovati nakupljanje kamenca i smanjenje efikasnosti slavine, stoga je pravovremena reakcija ključna."
+      },
+      {
+        "title": "Naše metode popravke slavina",
+        "text": "Popravka slavine može uključivati zamenu oštećenih brtvi, reparaciju unutrašnjih delova, ili zamenu kompletne slavine ukoliko je šteta prevelika. Naš tim koristi najnoviju tehnologiju i alat za precizno rešavanje svih vrsta curenja slavina. Bilo da se radi o jednostavnom popravljanju brtvi ili složenijoj zameni delova, naš pristup je brz, efikasan i dugotrajan, čime osiguravamo da vaša slavina funkcioniše kao nova."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Efikasna popravka slavine",
+      "title": "Popravka slavine – brzo i sigurno rešenje curenja",
+      "postTitle": "Spasite vodu uz našu brzu i efikasnu popravku slavine",
+      "text": "Curenje slavine nije samo neprijatno, već može izazvati velike gubitke vode. Naša usluga popravke slavina uključuje preciznu dijagnostiku problema i korišćenje kvalitetnih delova kako bi slavina ponovo funkcionisala besprekorno."
+    },
+    "elements": [
+      {
+        "title": "Zamena oštećenih brtvi",
+        "text": "Jedan od najčešćih uzroka curenja slavine su oštećene brtve. Brza zamena brtvi može rešiti problem curenja i omogućiti normalan rad slavine, sprečavajući dodatne gubitke vode. Naša ekipa koristi visokokvalitetne brtve koje pružaju dugotrajan efekat i osiguravaju da slavina funkcioniše besprekorno. Ovaj proces je brz i efikasan, čime se smanjuje mogućnost daljih oštećenja."
+      },
+      {
+        "title": "Popravka unutrašnjih delova",
+        "text": "U nekim slučajevima, curenje može biti uzrokovano oštećenjem unutrašnjih delova slavine, kao što su ventili ili mehanizmi za regulaciju protoka. Naša ekipa koristi odgovarajuće delove i stručnost za reparaciju ovih delova, čime obnavljamo funkcionalnost slavine i sprečavamo dalji gubitak vode. Ova popravka produžava životni vek slavine i održava je u optimalnom stanju."
+      },
+      {
+        "title": "Zamena kompletne slavine",
+        "text": "Ako slavina nije popravljiva ili je previše oštećena, nudimo zamenu sa modernim, energetski efikasnim modelima koji štede vodu i smanjuju potrošnju energije. Ovi modeli ne samo da pružaju dugotrajan rad, već i doprinosu smanjenju troškova za vodu i energiju. Naša usluga uključuje profesionalnu demontažu stare slavine i preciznu instalaciju nove, sa svim potrebnim popravkama vodovodnih instalacija."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati nas?",
+    "endTitle": "Garantovana popravka slavina bez gubitka vode",
+    "endText": "Sa našim stručnjacima, problem curenja slavine biće rešen brzo i efikasno. Uštedećete vodu i sprečiti dalja oštećenja instalacija. Kontaktirajte nas odmah za sigurno rešenje!"
+  },
+  {
+    "Icon": "/assets/svg/Washer.svg",
+    "id": "6",
+    "title": "Montiranje tuša",
+    "preTitle": "Montiranje",
+    "description": "Brza i sigurna montaža tuša uz garanciju na instalaciju.",
+    "image": "/images/montaza-tusa.jpg",
+    "points": [
+      {
+        "title": "Zašto montirati tuš?",
+        "text": "Montiranje tuša predstavlja odličnu opciju za poboljšanje funkcionalnosti i estetike vašeg kupatila. Tuševi štede prostor, smanjuju potrošnju vode i pružaju veću udobnost u svakodnevnoj upotrebi, što ih čini popularnim izborom među vlasnicima stanova. Takođe, tuš kabine su lakše za čišćenje u poređenju sa tradicionalnim kupkama, a instalacija je jednostavna i brza. Uzimajući u obzir ove prednosti, tuš može biti dugoročno rešenje koje poboljšava vašu kupatilsku infrastrukturu."
+      },
+      {
+        "title": "Kako prepoznati pravi tuš?",
+        "text": "Izbor tuša zavisi od vaših potreba, raspoloživog prostora i budžeta. Tuševi dolaze u različitim veličinama i tipovima, kao što su tuš kabine, tuš kade, ili čak walk-in tuševi. Naš tim stručnjaka će vam pomoći da odaberete model koji najbolje odgovara vašem kupatilu, uzimajući u obzir sve funkcionalne i estetske aspekte. Bez obzira da li renovirate staro kupatilo ili instalirate novi tuš, mi ćemo vam pružiti savet kako bi izbor bio optimalan i dugotrajan."
+      },
+      {
+        "title": "Naša usluga montaže tuša",
+        "text": "Montiranje tuša postaje jednostavno uz našu stručnu ekipu koja ima bogato iskustvo u postavljanju tuš kabina i tuš kadi. Nakon temeljne pripreme prostora, povezujemo tuš sa vašim vodovodnim sistemom, uveravajući se da svi delovi funkcionišu besprekorno. Naša usluga uključuje i testiranje sistema kako bi se osiguralo da je sve pravilno instalirano i da nema curenja. Svi naši materijali i instalacije su visokog kvaliteta, što garantuje dugotrajan rad vašeg novog tuša."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Brza i kvalitetna montaža tuša",
+      "title": "Montiranje tuša – brza i sigurna instalacija",
+      "postTitle": "Poboljšajte svoje kupatilo uz našu montažu tuša",
+      "text": "Naša usluga montaže tuša obuhvata sve – od izbora idealnog modela do precizne instalacije. Naš tim će se pobrinuti da vaša nova tuš instalacija bude postavljena sa vrhunskom preciznošću i dugotrajnom funkcionalnošću."
+    },
+    "elements": [
+      {
+        "title": "Izbor tuša",
+        "text": "Pomoći ćemo vam da odaberete idealan tuš koji odgovara vašim potrebama i prostoru. Bilo da se odlučujete za praktičnu tuš kabinu, elegantnu tuš kadu, ili sistem sa slavinama i masažnim funkcijama, naš tim će vas voditi kroz sve opcije. Prilagođavamo izbor prema vašem budžetu, stilu kupatila i željama za dodatnim funkcijama, kao što su hidromasaža, kišnica ili vodene slavine sa uštedom vode, kako biste imali savršen tuš."
+      },
+      {
+        "title": "Montaža tuš kabine",
+        "text": "Nakon što izaberete model, naš tim će profesionalno postaviti tuš kabinu, povezati je sa svim potrebnim vodovodnim sistemima, uključujući odvodnu kanalizaciju i vodene slavine. Naša preciznost i iskustvo garantuju brzo i sigurno postavljanje, uz obezbeđivanje svih tehničkih zahteva. Postavljamo i dodatne funkcionalnosti kao što su klizni vrata, tuš ploče sa antiskliznim površinama i vodene slavine sa termo-regulacijom."
+      },
+      {
+        "title": "Testiranje instalacije",
+        "text": "Nakon što završimo montažu tuša, temeljno proveravamo funkcionalnost svih sistema, uključujući protok vode, odvodnju, stabilnost konstrukcije i rad slavina. Testiramo sve instalacije kako bismo osigurali da je tuš potpuno funkcionalan i da nema curenja. Takođe, proveravamo rad masažnih funkcija i drugih dodataka kako bismo osigurali da vaša nova tuš kabina ispunjava sve tehničke i estetske zahteve."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati nas?",
+    "endTitle": "Garantovana montaža tuša bez problema",
+    "endText": "Sa našim stručnjacima, montiranje tuša je brzo, efikasno i bez stresa. Garantujemo kvalitet i dugoročnu funkcionalnost vašeg novog tuša."
+  },
+
+  {
+    "id": "7",
+    "Icon": "/assets/svg/Boiler.svg",
+    "title": "Ugradnja bojlera",
+    "preTitle": "Ugradnja",
+    "description": "Stručna ugradnja bojlera sa garancijom na dugotrajan rad.",
+    "image": "/images/ugradnja-bojlera.jpg",
+    "points": [
+      {
+        "title": "Zašto je važna pravilna ugradnja bojlera?",
+        "text": "Pravilna ugradnja bojlera je ključna za postizanje optimalne efikasnosti, dugotrajan rad i smanjenje rizika od kvarova. Loše izvedena instalacija može izazvati probleme poput niske temperature vode, curenja i povećane potrošnje energije, što povećava troškove."
+      },
+      {
+        "title": "Kako prepoznati problem sa bojlerom?",
+        "text": "Znakovi loše ugradnje ili kvara na bojleru uključuju nedovoljnu toplinu, čudne zvuke, curenje vode ili visoke račune za energiju. Ukoliko primetite ove simptome, važno je brzo reagovati kako biste izbegli veće kvarove."
+      },
+      {
+        "title": "Naša ugradnja bojlera",
+        "text": "Naš tim stručnjaka pruža profesionalnu ugradnju bojlera, poštujući sve tehničke specifikacije, sigurnosne standarde i preporuke proizvođača. Takođe, savetujemo vas o pravilnom održavanju i korišćenju bojlera za maksimalnu efikasnost i uštedu."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Stručna ugradnja bojlera",
+      "title": "Ugradnja bojlera – sigurno i efikasno rešenje za vaš dom",
+      "postTitle": "Ugradite svoj bojler sa garantovanim dugotrajnim radom",
+      "text": "Naša usluga ugradnje bojlera uključuje sve faze – od pripreme instalacije do testiranja funkcionalnosti. Koristimo samo visoko kvalitetne bojlere i opremu koja garantuje dugotrajan rad i sigurnost."
+    },
+    "elements": [
+      {
+        "title": "Izbor bojlera",
+        "text": "Naš stručni tim će vam pomoći da izaberete idealan bojler za vaš dom, uzimajući u obzir faktore kao što su kapacitet, energetska efikasnost i vaši specifični zahtevi. Pomoći ćemo vam da odaberete najpovoljniji model koji zadovoljava sve energetske standarde."
+      },
+      {
+        "title": "Priprema za ugradnju",
+        "text": "Pre početka ugradnje bojlera, obavljamo detaljnu pripremu svih potrebnih instalacija, uključujući postavljanje elektro i vodovodnih veza. Na taj način obezbeđujemo maksimalnu efikasnost i dugotrajan rad uređaja."
+      },
+      {
+        "title": "Testiranje i puštanje u rad",
+        "text": "Po završetku ugradnje bojlera, vršimo temeljne provere sistema kako bismo osigurali pravilno funkcionisanje. Testiramo sve parametre, uključujući temperaturu vode i efikasnost grejanja, kako bi bojler radio optimalno."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati nas?",
+    "endTitle": "Ugradnja bojlera sa garancijom na kvalitet",
+    "endText": "Naša stručna ekipa garantuje sigurno postavljanje bojlera uz vrhunske standarde kvaliteta i dugoročnu efikasnost. Kontaktirajte nas odmah za brzu i sigurnu ugradnju!"
+  },
+  {
+    "Icon": "/assets/svg/Pipe.svg",
+    "id": "8",
+    "title": "Zamena napukle cevi",
+    "preTitle": "Zamena",
+    "description": "zamena napuklih cevi u vašem domu za dug i bezbedan rad.",
+    "image": "/images/zamena-napukle-cevi.jpg",
+    "points": [
+      {
+        "title": "Zašto je potrebna zamena napukle cevi?",
+        "text": "Napukle cevi mogu biti uzrokovane starošću materijala, prekomernim pritiskom vode, mehaničkim oštećenjem ili korozijom. Nepravilno funkcionisanje cevi može dovesti do curenja vode, što može uzrokovati značajnu štetu u vašem domu."
+      },
+      {
+        "title": "Kako prepoznati napuklu cev?",
+        "text": "Napukle cevi obično izazivaju curenje vode, vlažne mrlje na zidovima, plafonima ili podu, kao i visoke račune za vodu. U nekim slučajevima može doći do zvuka kapanja ili curenja vode u prostoru gde se cev nalazi."
+      },
+      {
+        "title": "Naš proces zamene napukle cevi",
+        "text": "Naša ekipa stručnjaka pažljivo identifikuje lokaciju napukle cevi, vrši preciznu zamenu oštećenog dela, koristeći visokokvalitetne materijale, i proverava funkcionalnost sistema. Takođe, obezbeđujemo dugoročne popravke uz minimalne smetnje u vašem domu."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Brza i efikasna zamena napukle cevi",
+      "title": "Zamena napukle cevi – efikasno i bez stresa",
+      "postTitle": "Zamena napukle cevi u nekoliko koraka",
+      "text": "Ako su vaše cevi napukle, naš tim će brzo rešiti problem. Naš proces uključuje tačnu identifikaciju oštećenja, zamenu napukle cevi i testiranje sistema kako bi se osigurala bezbednost i funkcionalnost."
+    },
+    "elements": [
+      {
+        "title": "Identifikacija napukle cevi",
+        "text": "Prvo koristimo specijalizovane alatke za identifikaciju napuklih ili oštećenih cevi, uključujući inspekciju sa kamerama i druge tehnike za brzo lociranje problema."
+      },
+      {
+        "title": "Zamena oštećenog dela",
+        "text": "Nakon što utvrdimo tačnu lokaciju napukle cevi, vršimo preciznu zamenu oštećenog dela sa novim, visokokvalitetnim materijalima, osiguravajući dugoročnu funkcionalnost."
+      },
+      {
+        "title": "Testiranje i testiranje sistema",
+        "text": "Nakon što izvršimo zamenu cevi, temeljno testiramo ceo sistem kako bismo bili sigurni da je sve funkcionalno, bez curenja i drugih problema."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati nas?",
+    "endTitle": "zamena napukle cevi",
+    "endText": "Naša ekipa je specijalizovana za brzu i efikasnu zamenu napuklih cevi, koristeći moderne tehnike i materijale. Sa našim stručnim timom, možete biti sigurni da će vaš vodovodni sistem ponovo raditi besprekorno."
+  },
+  {
+    "Icon": "/assets/svg/HandWater.svg",
+    "id": "9",
+    "title": "Vodokotlić pušta vodu",
+    "preTitle": "Curenje",
+    "description": "Rešenje za probleme sa vodokotlićem koji stalno pušta vodu.",
+    "image": "/images/vodokotlic-pusta-vodu.jpg",
+    "points": [
+      {
+        "title": "Zašto vodokotlić pušta vodu?",
+        "text": "Vodokotlić koji pušta vodu obično ima problem sa oštećenjem brtvi, ventilima ili preopterećenjem vodovodnog sistema. Ovo može dovesti do stalnog oticanja vode, što ne samo da povećava račune za vodu, već može i oštetiti okolne instalacije."
+      },
+      {
+        "title": "Kako prepoznati vodokotlić koji pušta vodu?",
+        "text": "Ako primetite da je nivo vode u vodokotliću stalno povišen, voda se preliva iz WC šolje ili čujete zvuk tekuće vode, to su jasni znakovi da vaš vodokotlić pušta vodu."
+      },
+      {
+        "title": "Naša usluga popravke vodokotlića",
+        "text": "Naš tim koristi specijalizovane alate i materijale za popravku vodokotlića koji pušta vodu. To uključuje zamenu brtvi, popravku ventila ili zamenu celokupnog sistema, kako bi se sprečilo daljnje curenje vode i osigurao normalan rad."
+      }
+    ],
+    "mainTextData": {
+      "preTitle": "Brza popravka vodokotlića koji pušta vodu",
+      "title": "Popravka vodokotlića – sprečite nepotrebnu potrošnju vode",
+      "postTitle": "Rešenje za vodokotlić koji stalno pušta vodu",
+      "text": "Ako vaš vodokotlić stalno pušta vodu, naš stručni tim brzo identifikuje problem i rešava ga, sprečavajući dalja oštećenja i smanjujući potrošnju vode. Sa našim tehnikom popravke, možete računati na efikasnost i dugoročnu uštedu."
+    },
+    "elements": [
+      {
+        "title": "Provera ventila i brtvi",
+        "text": "Prvo proveravamo sve ventile i brtve u vodokotliću, koji su najčešći uzroci curenja. Ukoliko su oštećeni, zamenjujemo ih novim delovima."
+      },
+      {
+        "title": "Popravka sistema za punjenje",
+        "text": "U slučaju da problem leži u sistemu za punjenje, vršimo popravke ili zamenu oštećenih delova koji omogućavaju pravilno punjenje vodokotlića."
+      },
+      {
+        "title": "Testiranje i provera sistema",
+        "text": "Nakon popravke, testiramo sve komponente sistema kako bismo se uverili da vodokotlić više ne pušta vodu i da radi besprekorno."
+      }
+    ],
+    "preEndTitle": "Zašto izabrati nas?",
+    "endTitle": "popravka vodokotlića bez stresa",
+    "endText": "Naša stručna ekipa brzo rešava problem sa vodokotlićem koji pušta vodu, koristeći najnovije tehnike i delove. Sa našom uslugom, možete biti sigurni da će vaš vodokotlić raditi kao nov."
+  }
+]
