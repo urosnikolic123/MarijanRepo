@@ -4,7 +4,6 @@ import Header from "@/components/Header/Header";
 import Hero from "@/components/Hero/Hero";
 import InBetweenSection from "@/components/InBetweenSection/InBetweenSection";
 import MainPageServices from "@/components/MainPageServices/MainPageServices";
-import Navigation from "@/components/Navigation/Navigation";
 import PostHero from "@/components/PostHero/PostHero";
 import Problems from "@/components/Problems/Problems";
 import Section from "@/components/Section/Section";

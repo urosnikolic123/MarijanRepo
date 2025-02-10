@@ -1,11 +1,15 @@
 import React from "react";
-import FooterTextBox from "./FooterTextBox";
 import Phone from "@/../public/assets/svg/Phone.svg";
 import Letter from "@/../public/assets/svg/Letter.svg";
-// import FooterContactUsRow from "./FooterContactUsRow";
 import Button from "../Button/Button";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
-const list1 = ["Usluge", "O Nama", "Problemi"];
+const list1 = [
+  { name: "Početna", href: "/" },
+  { name: "Usluge", href: "/usluge" },
+  { name: "O Nama", href: "/o-nama" },
+  { name: "Problemi", href: "/problemi" },
+];
 const list2 = ["Centar za pomoć", "Pitanja i odgovori", "Kontaktirajte nas"];
 
 const Footer = () => {
@@ -31,12 +35,18 @@ const Footer = () => {
                 <div className="font-Roboto_Condensed text-2xl font-bold">
                   Firma
                 </div>
-                {list1.map((item, index) => (
-                  <div key={index}>{item}</div>
+                {list1.map(({ name, href }, index) => (
+                  <a
+                    href={href}
+                    key={index}
+                    className="hover:text-yellow duraiton-200"
+                  >
+                    {name}
+                  </a>
                 ))}
               </li>
             </div>
-            <div className="flex flex-col items-start gap-2 pr-24 sm:pr-0">
+            <div className="flex flex-col items-start gap-2 min-360:pr-24 pr-6 sm:pr-0">
               <li className="flex flex-col gap-2 text-start">
                 <div className="font-Roboto_Condensed text-2xl font-bold">
                   Pomoć
@@ -51,15 +61,18 @@ const Footer = () => {
                 Kontaktirajte nas
               </h3>
               <div className="flex flex-col gap-2 text-xl">
-                <h4 className="flex gap-3 text-yellow">
-                  <Phone /> 0653901520
-                </h4>
+                <a
+                  href={`tel:${PHONE_NUMBER}`}
+                  className="flex gap-3 text-yellow"
+                >
+                  <Phone /> 065/390-1520
+                </a>
                 <h4 className="flex gap-3">
                   <Letter />{" "}
                   <span className="flex-wrap">info@vodoinstalater.com</span>
                 </h4>
               </div>
-              <Button text={"Pozovite Nas!"} color={"yellow"} />
+              <Button text={"Pozovite Nas!"} />
             </div>
           </div>
           <div className="flex flex-col items-start gap-2 text-center sm:hidden lg:flex lg:justify-self-center">
@@ -67,15 +80,18 @@ const Footer = () => {
               Kontaktirajte nas
             </h3>
             <div className="flex flex-col gap-2 text-xl">
-              <h4 className="flex gap-3 text-yellow">
-                <Phone /> 0653901520
-              </h4>
+              <a
+                href={`tel:${PHONE_NUMBER}`}
+                className="flex gap-3 text-yellow"
+              >
+                <Phone /> 065/390-1520
+              </a>
               <h4 className="flex gap-3">
                 <Letter />{" "}
                 <span className="flex-wrap">info@vodoinstalater.com</span>
               </h4>
             </div>
-            <Button text={"Pozovite Nas!"} color={"yellow"} />
+            <Button text={"Pozovite Nas!"} />
           </div>
         </div>
       </div>

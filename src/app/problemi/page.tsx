@@ -15,7 +15,7 @@ const Blog = () => {
         date={null}
         title={"Problemi"}
         description={
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum architecto, doloribus delectus harum pariatur illo! Labore autem sunt laborum numquam ut ab, odit dolorum."
+          "Naša stranica pruža uvid u najčešće probleme sa vodoinstalacijama. Ovdje možete pronaći korisne informacije o tome kako prepoznati i rešiti tipične vodovodne probleme, kao i savete za prevenciju."
         }
       />
       <BlogList pagesData={pagesData} />

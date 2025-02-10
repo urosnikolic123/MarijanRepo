@@ -1,3 +1,5 @@
+"use client";
+
 import Footer from "@/components/Footer/Footer";
 import Header from "@/components/Header/Header";
 import PagesTitle from "@/components/PagesTitle/PagesTitle";
@@ -8,13 +10,10 @@ import PageClosingText from "@/components/PageClosingText/PageClosingText";
 import SideSection from "@/components/SideSection/SideSection";
 import AboutUsPreFooter from "@/components/AboutUsPreFooter/AboutUsPreFooter";
 import pagesData from "../data.json";
+import { useParams } from "next/navigation";
 
-type Props = {
-  params: { id: string };
-};
-
-const Page = ({ params }: Props) => {
-  const { id } = params;
+const Page = () => {
+  const { id } = useParams();
   const data = pagesData.find((item) => item.id === id);
   const sideMenuData = pagesData.filter((item) => item.id !== id);
 

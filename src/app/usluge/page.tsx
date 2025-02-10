@@ -14,7 +14,7 @@ const Services = () => {
         date={null}
         title={"Usluge"}
         description={
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum architecto, doloribus delectus harum pariatur illo! Labore autem sunt laborum numquam ut ab, odit dolorum."
+          "Naša kompanija nudi širok spektar usluga kako bi zadovoljila sve vaše potrebe u vezi sa vodovodom, grejanjem, klimatizacijom i sanitarijama."
         }
       />
       <ServicesList pagesData={pagesData} />

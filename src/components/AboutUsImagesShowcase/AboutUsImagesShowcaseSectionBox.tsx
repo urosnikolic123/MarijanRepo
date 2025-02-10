@@ -21,7 +21,7 @@ const AboutUsImagesShowcaseSectionBox = ({
       >
         <h3 className="font-Roboto_Condensed text-5xl font-medium">{title}</h3>
         <p className="font-Roboto_Condensed text-lg">{text}</p>
-        <Button color={"yellow"} text={"Pozovite Nas!"} />
+        <Button text={"Pozovite Nas!"} />
       </div>
     </div>
   );

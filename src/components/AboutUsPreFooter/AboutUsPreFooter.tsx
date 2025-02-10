@@ -14,7 +14,7 @@ const AboutUsPreFooter = ({ preTitle, title, description }) => {
         title={title}
         description={description}
       />
-      <Button color={"yellow"} text={"Pozovite Nas!"} />
+      <Button text={"Pozovite Nas!"} />
     </section>
   );
 };

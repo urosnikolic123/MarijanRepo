@@ -1,7 +1,7 @@
 [
   {
     "Icon": "/assets/svg/bathtub-bathroom-svgrepo-com.svg",
-    "id": "1",
+    "id": "odgusenje-kade",
     "title": "Odgušenje kade",
     "preTitle": "Odgušenje",
     "description": "brzo odgušenje kade bez oštećenja instalacija.",
@@ -46,7 +46,7 @@
   },
   {
     "Icon": "/assets/svg/ToiletSeat.svg",
-    "id": "2",
+    "id": "odgusenje-wc-solje",
     "title": "Odgušenje WC šolje",
     "preTitle": "Odgušenje",
     "description": "Brzo i sigurno odgušenje WC šolje bez stresa i dodatnih troškova.",
@@ -91,7 +91,7 @@
   },
   {
     "Icon": "/assets/svg/ProblemPipe.svg",
-    "id": "3",
+    "id": "curenje-cevi",
     "title": "Curenje cevi",
     "preTitle": "Curenje",
     "description": "otkrivanje i popravka curenja cevi u vašem domu.",
@@ -136,7 +136,7 @@
   },
   {
     "Icon": "/assets/svg/WetUmbrella.svg",
-    "id": "4",
+    "id": "problemi-sa-vlagom",
     "title": "Problemi sa vlažnim zidovima",
     "preTitle": "Vlaga",
     "description": "Identifikovanje i rešavanje problema sa vlažnim zidovima.",
@@ -181,7 +181,7 @@
   },
   {
     "Icon": "/assets/svg/DetailedSink.svg",
-    "id": "5",
+    "id": "popravka-slavine",
     "title": "Popravka slavine",
     "preTitle": "Popravka",
     "description": "Brza i precizna popravka slavina – eliminisanje curenja",
@@ -226,7 +226,7 @@
   },
   {
     "Icon": "/assets/svg/Washer.svg",
-    "id": "6",
+    "id": "montiranje-tusa",
     "title": "Montiranje tuša",
     "preTitle": "Montiranje",
     "description": "Brza i sigurna montaža tuša uz garanciju na instalaciju.",
@@ -271,8 +271,8 @@
   },
 
   {
-    "id": "7",
     "Icon": "/assets/svg/Boiler.svg",
+    "id": "ugradnja-bojlera",
     "title": "Ugradnja bojlera",
     "preTitle": "Ugradnja",
     "description": "Stručna ugradnja bojlera sa garancijom na dugotrajan rad.",
@@ -317,7 +317,7 @@
   },
   {
     "Icon": "/assets/svg/Pipe.svg",
-    "id": "8",
+    "id": "napukla-cev",
     "title": "Zamena napukle cevi",
     "preTitle": "Zamena",
     "description": "zamena napuklih cevi u vašem domu za dug i bezbedan rad.",
@@ -362,7 +362,7 @@
   },
   {
     "Icon": "/assets/svg/HandWater.svg",
-    "id": "9",
+    "id": "vodokotlic",
     "title": "Vodokotlić pušta vodu",
     "preTitle": "Curenje",
     "description": "Rešenje za probleme sa vodokotlićem koji stalno pušta vodu.",

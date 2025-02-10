@@ -1,11 +1,18 @@
 import React from "react";
 import Image from "next/image";
 
-const MainPageService = ({ image, preTitle, title, description, id }) => {
+const MainPageService = ({
+  image,
+  preTitle,
+  title,
+  description,
+  id,
+  className,
+}) => {
   return (
     <a
       href={`/usluge/${id}`}
-      className="relative flex w-full justify-center duration-200 hover:scale-[102%]"
+      className={`${className} relative flex justify-center duration-200 hover:scale-[102%]  mx-auto`}
     >
       <div className="relative h-72 w-full">
         <Image

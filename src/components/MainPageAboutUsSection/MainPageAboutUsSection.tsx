@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import ToiletPaper from "@/../public/assets/svg/ToiletPaper.svg";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
 const AchievementsInformation = [
   { number: 10, description: "Godina Iskustva" },
@@ -45,7 +46,7 @@ const MainPageAboutUsSection = () => {
           je u pitanju popravka curenja, instalacija novih cevi ili redovno
           održavanje, naš tim je tu da vam pruži kvalitetnu i dugotrajnu uslugu.
         </p>
-        <ul className="mt-6 flex justify-center gap-4 sm:gap-12 lg:justify-start">
+        <ul className="mt-6 mb-12 flex flex-col justify-center gap-8 sm:gap-12 sm:flex-row lg:justify-start">
           {AchievementsInformation.map(({ number, description }, index) => (
             <li
               key={index}
@@ -56,9 +57,12 @@ const MainPageAboutUsSection = () => {
             </li>
           ))}
         </ul>
-        <button className="mt-8 rounded-lg bg-yellow px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white">
+        <a
+          href={`tel:${PHONE_NUMBER}`}
+          className="rounded-lg bg-yellow hover:bg-yellowHover duration-200 px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white"
+        >
           Pozovite Nas!
-        </button>
+        </a>
       </div>
     </section>
   );

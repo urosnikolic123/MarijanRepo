@@ -1,5 +1,5 @@
 import React from "react";
-import GenericTitle from "../GenericTitle/GenericTitle";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
 const InBetweenSection = ({ preTitle, title, text, button }) => {
   return (
@@ -10,9 +10,12 @@ const InBetweenSection = ({ preTitle, title, text, button }) => {
         </h5>
         <h2 className="mb-4 text-3xl font-semibold sm:text-5xl">{title} </h2>
         <p className="max-w-screen-lg text-lg text-gray-300">{text}</p>
-        <button className="mt-8 rounded-lg bg-yellow px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white">
+        <a
+          href={`tel:${PHONE_NUMBER}`}
+          className="mt-8 rounded-lg bg-yellow hover:bg-yellowHover duration-300 px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white"
+        >
           {button}
-        </button>
+        </a>
       </div>
     </section>
   );

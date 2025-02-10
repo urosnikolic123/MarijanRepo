@@ -1,6 +1,6 @@
 import React from "react";
-import Button from "../Button/Button";
 import Image from "next/image";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
 const AboutUsIntroSection = () => {
   return (
@@ -15,11 +15,12 @@ const AboutUsIntroSection = () => {
           garantiramo da će vaša vodovodna mreža funkcionisati besprekorno i
           sigurno tokom svih godišnjih doba.
         </p>
-        <button
-          className={`mt-4 w-fit rounded-lg bg-yellow px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white duration-100`}
+        <a
+          href={`tel:${PHONE_NUMBER}`}
+          className={`mt-4 w-fit rounded-lg bg-yellow hover:bg-yellowHover px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white duration-100`}
         >
           Pozovite Nas!
-        </button>
+        </a>
       </div>
 
       <div className="relative mb-40 mt-12 min-h-[240px] w-2/3 justify-self-end lg:mb-32 lg:mt-0">

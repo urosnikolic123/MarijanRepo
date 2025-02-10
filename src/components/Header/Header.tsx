@@ -3,6 +3,7 @@ import Letter from "@/../public/assets/svg/Letter.svg";
 import Phone from "@/../public/assets/svg/Phone.svg";
 import Medal from "@/../public/assets/svg/Medal.svg";
 import Navigation from "../Navigation/Navigation";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
 const Header = () => {
   return (
@@ -16,10 +17,13 @@ const Header = () => {
               uros.n.nikolic123@gmail.com
             </h4>
           </div>
-          <div className="flex cursor-pointer items-center gap-2 duration-150 hover:text-yellow">
+          <a
+            href={`tel:${PHONE_NUMBER}`}
+            className="flex cursor-pointer items-center gap-2 duration-150 hover:text-yellow"
+          >
             <Phone width={24} height={24} />
             <h4>065/390-1520</h4>
-          </div>
+          </a>
         </div>
       </div>
       <Navigation />

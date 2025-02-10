@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
 const Hero = () => {
   return (
@@ -16,18 +17,19 @@ const Hero = () => {
           alt="phoneHero"
           width={360}
           height={360}
-          className="object-cover lg:hidden"
+          className="object-cover lg:hidden z-10"
         />
-        <div className="absolute bottom-[52px] -z-10 flex flex-col-reverse items-center gap-1 lg:static lg:flex-col lg:items-start">
+        <div className="absolute bottom-[52px]  flex flex-col-reverse items-center gap-1 lg:static lg:flex-col lg:items-start">
           <h3 className="text-3xl font-semibold xl:text-4xl">
             Hitne Intervencije 24/7
           </h3>
-          <button
+          <a
+            href={`tel:${PHONE_NUMBER}`}
             style={{ textShadow: "3px 3px 0px rgba(0, 0, 0, 0.5)" }}
-            className="sharp_shadow w-fit rounded-md bg-blue px-4 pb-2 pt-3 text-4xl font-medium text-white duration-75 hover:scale-[102%] sm:px-4 min-1184:text-5xl xl:text-6xl"
+            className="sharp_shadow w-fit rounded-md bg-blue duration-200 px-4 pb-2 pt-3 text-4xl font-medium text-white hover:scale-[102%] sm:px-4 min-1184:text-5xl xl:text-6xl"
           >
             +381/65-390-1520
-          </button>
+          </a>
         </div>
       </div>
       <div className="hidden items-end justify-end gap-2 lg:flex">

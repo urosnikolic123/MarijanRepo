@@ -1,6 +1,7 @@
 import React from "react";
 import GenericTitle from "../GenericTitle/GenericTitle";
 import SentanceStructure from "./SentanceStructure";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
 const sentances = [
   {
@@ -32,9 +33,12 @@ const Section = () => {
           <SentanceStructure key={index} text={text} />
         ))}
       </ul>
-      <button className="mt-20 rounded-lg bg-yellow px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white">
+      <a
+        href={`tel:${PHONE_NUMBER}`}
+        className="mt-20 rounded-lg bg-yellow hover:bg-yellowHover duration-200 px-8 py-3 font-Roboto_Condensed text-xl font-medium text-white"
+      >
         Kontaktirajte Nas
-      </button>
+      </a>
     </section>
   );
 };

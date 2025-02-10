@@ -1,12 +1,12 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
-import Exit from "@/../public/assets/svg/Exit.svg";
 import Menu from "@/../public/assets/svg/PhoneMenu.svg";
 import HamburgerMenu from "./HamburgerMenu";
-import Button from "../Button/Button";
+import { PHONE_NUMBER } from "@/app/constants.js";
 
 const navElements = [
+  { name: "Početna", href: "" },
   { name: "Usluge", href: "usluge" },
   { name: "O Nama", href: "o-nama" },
   { name: "Problemi", href: "problemi" },
@@ -47,11 +47,12 @@ const Navigation = () => {
             </li>
           ))}
         </div>
-        <button
-          className={`hidden w-fit rounded-lg bg-blue px-8 py-1 font-Roboto_Condensed text-xl font-medium text-white duration-100 md:block`}
+        <a
+          href={`tel:${PHONE_NUMBER}`}
+          className={`hidden w-fit rounded-lg bg-blue hover:bg-blueHover px-8 py-1 font-Roboto_Condensed text-xl font-medium text-white duration-200 md:block`}
         >
           Pozovite
-        </button>
+        </a>
       </div>
     </nav>
   );

@@ -1,7 +1,7 @@
 [
   {
     "Icon": "/assets/svg/BathTub.svg",
-    "id": "1",
+    "id": "renoviranje-kupatila",
     "title": "Renoviranje Kupatila",
     "preTitle": "renoviranje",
     "description": "Stručni tim za renoviranje kupatila, od projektovanja do finalne instalacije, sa garancijom na sve radove.",
@@ -50,8 +50,8 @@
   },
   {
     "Icon": "/assets/svg/ServiceUnclogger.svg",
-    "id": "2",
-    "title": "Odgusenje Kanalizacije",
+    "id": "odgusenje-kanalizacije",
+    "title": "Odgušenje Kanalizacije",
     "preTitle": "Odgušenje",
     "description": "Stručnjaci za odgušenje kanalizacije, rešavanje blokada i sprečavanje problema sa odvodima.",
     "image": "/images/odgusenje-kanalizacije.jpg",
@@ -99,10 +99,10 @@
   },
   {
     "Icon": "/assets/svg/ServiceBoiler.svg",
-    "id": "3",
+    "id": "popravka-bojlera",
     "title": "Zamena i Popravka Bojlera",
     "preTitle": "Popravka",
-    "description": "Stručnjaci za zamenu i popravku bojlera, obezbeđujemo dugotrajan rad vašeg sistema za grejanje vode.",
+    "description": "Stručnjaci za zamenu i popravku bojlera, obezbeđujemo dugotrajan rad vašeg sistema.",
     "image": "/images/zamena-popravka-bojlera.jpg",
     "points": [
       {
@@ -148,7 +148,7 @@
   },
   {
     "Icon": "/assets/svg/Fix.svg",
-    "id": "4",
+    "id": "popravka-sanitarija",
     "title": "Popravka Sanitarija",
     "preTitle": "Sanitarije",
     "description": "Stručnjaci za popravku sanitarnih uređaja u vašem kupatilu, obezbeđujemo dugotrajan rad svih vaših instalacija.",
@@ -197,7 +197,7 @@
   },
   {
     "Icon": "/assets/svg/Record.svg",
-    "id": "5",
+    "id": "snimanje-cevi",
     "title": "Snimanje Cevi Termalnom Kamerom",
     "preTitle": "Snimanje",
     "description": "Snimanje cevi termalnom kamerom omogućava brzo i efikasno otkrivanje problema sa vodovodnim i grejnim sistemima bez potrebe za rušenjem zidova.",
@@ -246,7 +246,7 @@
   },
   {
     "Icon": "/assets/svg/Dirty.svg",
-    "id": "6",
+    "id": "ciscenje-odvoda",
     "title": "Čišćenje i Održavanje Odvoda",
     "preTitle": "Čišćenje",
     "description": "Profesionalno čišćenje i održavanje odvoda kako bi se sprečili problemi sa zagušenjima i neprijatnim mirisima.",
@@ -295,7 +295,7 @@
   },
   {
     "Icon": "/assets/svg/LeakingPipe.svg",
-    "id": "7",
+    "id": "popravka-cevi",
     "title": "Popravka Curenja Cevi",
     "preTitle": "Popravka",
     "description": "Brza i sigurna popravka curenja cevi u vodovodnim i grejnim sistemima bez potrebe za velikim kopanjem.",

@@ -34,8 +34,13 @@ const AboutUsInBetween = () => {
           kvalitetu i zadovoljstvu naših klijenata.
         </p>
         <ul className="mt-10 grid grid-cols-1 gap-16 text-start md:grid-cols-2 lg:grid-cols-3">
-          {AboutUsInBetweenData.map(({ title, text, Icon }) => (
-            <AboutUsInBetweenTextBox title={title} text={text} Icon={Icon} />
+          {AboutUsInBetweenData.map(({ title, text, Icon }, index) => (
+            <AboutUsInBetweenTextBox
+              key={index}
+              title={title}
+              text={text}
+              Icon={Icon}
+            />
           ))}
         </ul>
       </div>

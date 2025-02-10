@@ -27,11 +27,11 @@ const TestimonialsProfiles = [
   },
   {
     image: "/images/testimonials3.jpg",
-    alt: "Jovan Stanković",
-    name: "Jovan Stanković",
+    alt: "Jovana Stanković",
+    name: "Jovana Stanković",
     work: "Moler",
     description:
-      "Imali smo problem sa curenjem cevi u stanu, ekipa je brzo reagovala i rešila problem bez ikakvih oštećenja. sve je rešeno na vreme. 10.",
+      "Imali smo problem sa curenjem cevi u stanu, ekipa je brzo reagovala i rešila problem bez ikakvih oštećenja. sve je rešeno na vreme. 10++.",
   },
   {
     image: "/images/testimonials4.jpg",
@@ -89,7 +89,7 @@ const Testimonials = () => {
                 description={description}
               />
             </SwiperSlide>
-          ),
+          )
         )}
       </Swiper>
     </section>
